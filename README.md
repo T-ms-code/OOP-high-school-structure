@@ -1,3 +1,4 @@
+ [![Build Status](https://github.com/T-ms-code/OOP-high-school-structure/actions/workflows/cmake.yml/badge.svg)](https://github.com/T-ms-code/OOP-high-school-structure/actions)  
 **Application for managing the hierarchy of a high school**: students, teachers and classes      
 
 **Description**    
