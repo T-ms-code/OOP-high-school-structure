@@ -5,7 +5,7 @@
 The ScholarshipStudent subclass was derived from the Student class, while the HomeroomTeacher subclass was derived from the Teacher class. Additionally, Student and Teacher are child classes of the abstract class Person. For generalization purposes, the Subject class was introduced, representing an aggregation relationship with the class that includes both students and teachers: the "superclass" Class.
 Also, the menu now has three levels of depth, and among the functionalities are: the ability to create a new class, a new subject, a new teacher, or a new student; the ability to expel a student, assign a grade or an absence; the ability to grant a scholarship, create a history of people who have had contact with the high school, and more.
 
-**Concepts used**     
+**Used concepts**     
 1)Classes and Objects   
 2)Encapsulation   
 3)Inheritance   
